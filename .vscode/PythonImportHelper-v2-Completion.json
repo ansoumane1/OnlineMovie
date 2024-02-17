@@ -1,0 +1,906 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.forms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.decorators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Textarea",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "movie",
+        "description": "movie",
+        "isExtraImport": true,
+        "detail": "movie",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserCreateForm(UserCreationForm):\n  def __init__(self, *args, **kwargs):\n    super(UserCreationForm, self).__init__(*args, **kwargs)\n    for fieldname in ['username', 'password1', 'password2']:\n      self.fields[fieldname].help_text=None\n      self.fields[fieldname].widget.attrs.update({'class':'form-control'})",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n   path('signup/', views.signupaccount, name='signupaccount'),\n   path('logout/', views.logoutaccount, name ='logoutaccount'),\n   path('login/', views.loginaccount, name='loginaccount'),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "signupaccount",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def signupaccount(request):\n  form = UserCreateForm()\n  if request.method == 'GET':\n    return render(request, 'accounts/signupaccount.html', {'form':form})\n  else:\n    if request.POST['password1']==request.POST['password2']:\n      try:\n        user = User.objects.create_user(\n          request.POST['username'],\n          password = request.POST['password1']",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logoutaccount",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def logoutaccount(request):\n  logout(request)\n  return redirect('loginaccount')\ndef loginaccount(request):\n  form = AuthenticationForm()\n  if request.method == 'GET':\n    return render(request, 'accounts/loginaccount.html', {'form':form})\n  else:\n    user = authenticate(request, username=request.POST['username'], password=request.POST['password'])\n    if user is None:",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginaccount",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def loginaccount(request):\n  form = AuthenticationForm()\n  if request.method == 'GET':\n    return render(request, 'accounts/loginaccount.html', {'form':form})\n  else:\n    user = authenticate(request, username=request.POST['username'], password=request.POST['password'])\n    if user is None:\n      return render(request, 'accounts/loginaccount.html' ,{'form':form, 'error':'Nom d\\'utilisateur ou le mot de passe est invalide !'})\n    else:\n      login(request, user)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "blog.migrations.0001_initial",
+        "description": "blog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Article',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=200)),",
+        "detail": "blog.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BlogConfig",
+        "kind": 6,
+        "importPath": "blog.apps",
+        "description": "blog.apps",
+        "peekOfCode": "class BlogConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'blog'",
+        "detail": "blog.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Article",
+        "kind": 6,
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "peekOfCode": "class Article(models.Model):\n  title = models.CharField(max_length=200)\n  body = models.TextField()\n  date = models.DateField()\n  def __str__(self):\n    return self.title",
+        "detail": "blog.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "blog.urls",
+        "description": "blog.urls",
+        "peekOfCode": "urlpatterns = [\n  path('', views.article, name='article'),\n]",
+        "detail": "blog.urls",
+        "documentation": {}
+    },
+    {
+        "label": "article",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def article(request):\n  articles = Article.objects.all().order_by('-date')\n  return render(request, 'blog/article.html',{'articles':articles})",
+        "detail": "blog.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "movie.migrations.0001_initial",
+        "description": "movie.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Movie',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=200)),",
+        "detail": "movie.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "movie.migrations.0002_review",
+        "description": "movie.migrations.0002_review",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('movie', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Review',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "movie.migrations.0002_review",
+        "documentation": {}
+    },
+    {
+        "label": "MovieConfig",
+        "kind": 6,
+        "importPath": "movie.apps",
+        "description": "movie.apps",
+        "peekOfCode": "class MovieConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'movie'",
+        "detail": "movie.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewForm",
+        "kind": 6,
+        "importPath": "movie.forms",
+        "description": "movie.forms",
+        "peekOfCode": "class ReviewForm(ModelForm):\n  def __init__(self, *args, **kwargs):\n    super(ModelForm, self).__init__(*args, **kwargs)\n    self.fields['text'].widget.attrs.update({'class':'form-control'})\n  class Meta:\n    model = Review\n    fields=['text']\n    widgets = {\n      'text': Textarea(attrs={'rows':4}),\n    }",
+        "detail": "movie.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "movie.models",
+        "description": "movie.models",
+        "peekOfCode": "class Movie(models.Model):\n  title = models.CharField(max_length=200)\n  description = models.CharField(max_length=250)\n  image = models.ImageField(upload_to=\"movie/images/\")\n  url = models.URLField(blank=True)\n  def __str__(self):\n    return self.title\nclass Review(models.Model):\n  text = models.CharField(max_length=200)\n  movie = models.ForeignKey(Movie, on_delete=models.CASCADE)",
+        "detail": "movie.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "movie.models",
+        "description": "movie.models",
+        "peekOfCode": "class Review(models.Model):\n  text = models.CharField(max_length=200)\n  movie = models.ForeignKey(Movie, on_delete=models.CASCADE)\n  user = models.ForeignKey(User, on_delete=models.CASCADE)\n  date = models.DateTimeField(auto_now_add=True)\n  def __str__(self):\n    return self.text",
+        "detail": "movie.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "movie.urls",
+        "description": "movie.urls",
+        "peekOfCode": "urlpatterns = [\n  path('<int:movie_id>', views.detail, name=\"detail\"),\n  path('<int:movie_id>/create/', views.createreview, name=\"createreview\"),\n  path('review/<int:review_id>', views.updatereview, name=\"updatereview\"),\n  path('review/<int:review_id>/delete', views.deletereview,name=\"deletereview\")\n]",
+        "detail": "movie.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def home(request):\n  searchTerm = request.GET.get('searchMovie')\n  if searchTerm:\n    movies = Movie.objects.filter(title__icontains=searchTerm)\n  else:\n    movies = Movie.objects.all()\n  return render(request, 'index.html', {'searchTerm':searchTerm, 'movies':movies})\ndef detail(request, movie_id):\n  movie = get_object_or_404(Movie, pk=movie_id)\n  reviews = Review.objects.filter(movie=movie)",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "detail",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def detail(request, movie_id):\n  movie = get_object_or_404(Movie, pk=movie_id)\n  reviews = Review.objects.filter(movie=movie)\n  return render(request, 'movie_detail.html', {'movie':movie, 'reviews':reviews})\ndef about(request):\n  return render(request, 'about.html')\n@login_required\ndef createreview(request, movie_id):\n  movie = get_object_or_404(Movie, pk=movie_id)\n  form = ReviewForm()",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def about(request):\n  return render(request, 'about.html')\n@login_required\ndef createreview(request, movie_id):\n  movie = get_object_or_404(Movie, pk=movie_id)\n  form = ReviewForm()\n  if request.method == 'GET':\n    return render(request, 'createreview.html', {'movie':movie, 'form':form})\n  else:\n    try:",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "createreview",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def createreview(request, movie_id):\n  movie = get_object_or_404(Movie, pk=movie_id)\n  form = ReviewForm()\n  if request.method == 'GET':\n    return render(request, 'createreview.html', {'movie':movie, 'form':form})\n  else:\n    try:\n      form = ReviewForm(request.POST)\n      newReview = form.save(commit=False)\n      newReview.user = request.user",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "updatereview",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def updatereview(request, review_id):\n  review = get_object_or_404(Review, pk=review_id, user=request.user)\n  if request.method == 'GET':\n    form = ReviewForm(instance=review)\n    return render(request, 'updatereview.html', {'form':form, 'review':review})\n  else:\n    try:\n      form = ReviewForm(request.POST, instance=review)\n      form.save()\n      return redirect('detail', review.movie.id)",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "deletereview",
+        "kind": 2,
+        "importPath": "movie.views",
+        "description": "movie.views",
+        "peekOfCode": "def deletereview(request, review_id):\n  review = get_object_or_404(Review, pk=review_id, user = request.user)\n  review.delete()\n  return redirect('detail', review.movie.id)",
+        "detail": "movie.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "MovieProct.asgi",
+        "description": "MovieProct.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "MovieProct.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nenv = environ.Env()\nenviron.Env.read_env(env_file=str(BASE_DIR / 'MovieProct'/'.env'))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = env('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = env.bool('DEBUG', False)\nALLOWED_HOSTS = env.list('ALLOWED_HOSTS')",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "env = environ.Env()\nenviron.Env.read_env(env_file=str(BASE_DIR / 'MovieProct'/'.env'))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = env('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = env.bool('DEBUG', False)\nALLOWED_HOSTS = env.list('ALLOWED_HOSTS')\nprint(SECRET_KEY)",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "SECRET_KEY = env('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = env.bool('DEBUG', False)\nALLOWED_HOSTS = env.list('ALLOWED_HOSTS')\nprint(SECRET_KEY)\nprint(DEBUG)\nprint(ALLOWED_HOSTS)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "DEBUG = env.bool('DEBUG', False)\nALLOWED_HOSTS = env.list('ALLOWED_HOSTS')\nprint(SECRET_KEY)\nprint(DEBUG)\nprint(ALLOWED_HOSTS)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "ALLOWED_HOSTS = env.list('ALLOWED_HOSTS')\nprint(SECRET_KEY)\nprint(DEBUG)\nprint(ALLOWED_HOSTS)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'movie',\n    'accounts',\n    'blog'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'MovieProct.urls'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "ROOT_URLCONF = 'MovieProct.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'MovieProct.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME':'onlinemovie',\n        'USER':'root',\n        'PASSWORD':'',\n        'HOST':'localhost',",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME':'onlinemovie',\n        'USER':'root',\n        'PASSWORD':'',\n        'HOST':'localhost',\n        'PORT':'3307',\n    }\n}",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'static'\nMEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\nMEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nLOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "MovieProct.settings",
+        "description": "MovieProct.settings",
+        "peekOfCode": "LOGIN_URL = 'loginaccount'",
+        "detail": "MovieProct.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "MovieProct.urls",
+        "description": "MovieProct.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.home, name='home'),\n    path('about/', views.about, name=\"about\"),\n    # path('signup/', views.signup, name=\"signup\"),\n    path('movie/', include('movie.urls')),\n    path('accounts/', include('accounts.urls')),\n    path('blog/', include('blog.urls')),\n]\nurlpatterns += static(settings.MEDIA_URL , document_root = settings.MEDIA_ROOT)",
+        "detail": "MovieProct.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "MovieProct.wsgi",
+        "description": "MovieProct.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "MovieProct.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'MovieProct.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h2>{{signup}} Merci d'avoir s'inscrire à notre newsletter</h2>
+  <a href="{% url 'home' %}">Home</a>
+      {% comment %} <form action="{% url 'signup' %}">
+      <div class="mb-3">
+        <label for="email" class="form-label">Enter your email: </label>
+        <input type="email" class="form-control" name="email">
+      </div>
+      <button type="submit" class="btn btn-primary">Sign up</button>
+    </form>
+    <h2>Bonjour Bienvenue sur la page d'accueil {{nom}} vous avez {{age}} ans</h2>
+    <p>Page d'accueil</p> {% endcomment %}
+</body>
+</html>
